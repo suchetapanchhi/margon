@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627544467752",
+    "firebase_url": "https://margon-310b8.firebaseio.com",
+    "project_id": "margon-310b8",
+    "storage_bucket": "margon-310b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627544467752:android:8e4c949ceadfce1b1e481d",
+        "android_client_info": {
+          "package_name": "com.staro.margon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627544467752-639oqudhholar8ku1f5chqakita6usa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.staro.margon",
+            "certificate_hash": "2cb12737ab1e47e6fe312d58e65ce8a778522c91"
+          }
+        },
+        {
+          "client_id": "627544467752-pgmdfii8pmubvltm1rijlootrdfci8pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUwXa2DDd753FqmKgouLibkOSRkGuHXwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627544467752-pgmdfii8pmubvltm1rijlootrdfci8pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
