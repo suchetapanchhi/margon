@@ -47,14 +47,3 @@ It allows to:
 3. Modify dialog by adding occupants.
 4. Real-time chat messaging and attachment's handling.
 5. Receiving Push-notifications from server in background
-
-
-
-# Screenshots
-<img src="screenshots/Chat1.png" width=180 />
-<img src="screenshots/Chat2.png" width=180 />
-<img src="screenshots/Chat3.png" width=180 />
-<img src="screenshots/Chat4.png" width=180 />
-<img src="screenshots/Chat5.png" width=180 />
-<img src="screenshots/Chat6.png" width=180 />
-<img src="screenshots/Chat7.png" width=180 />
